@@ -31,3 +31,6 @@
 
 * How demand of constitution arrises & by whome? - 39
 * What is August Offer? - 39
+* What is Cripps Mission & what happened to its offer? - 39
+* When constituent assembly formed? - 39
+* Whats the strength of constituent assembly & how seats are distributed? - 39
