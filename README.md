@@ -35,3 +35,5 @@
 * When constituent assembly formed? - [S](https://testbook.com/question-answer/the-constituent-assembly-was-constituted-in-novemb--5b6ecaf3dd75cd0c43a0ff48)
 * Whats the strength of constituent assembly & how seats are distributed? - 39
 * What is cabinet mission plan? - 39
+* How members of constituent assembly elected, whats the limitation? - 40(1)
+* 
