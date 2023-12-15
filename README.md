@@ -40,4 +40,5 @@
 * How many seats won by different parties? - 40(1)
 * What caste, religion included in this election? - 40(1)
 * When did the first election of constituent assembly happened? - [S](https://www.google.com/search?q=first+meeting+of+constituent+assembly&oq=first+meeting+of+constituent+assembly+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIICAgQABgWGB4yCAgJEAAYFhgeMggIChAAGBYYHjIICAsQABgWGB4yCAgMEAAYFhgeMgoIDRAAGAoYFhgeMggIDhAAGBYYHtIBCDY3ODZqMGo0qAIAsAIA&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8)
-* How many member attended the first meeting & who become the chairman? - 40(1)
+* How many member attended the first meeting & who become the chairman? - 40(2)
+* Who elected as vice-president of assembly? - 40(2)
