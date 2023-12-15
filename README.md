@@ -36,4 +36,6 @@
 * Whats the strength of constituent assembly & how seats are distributed? - 39
 * What is cabinet mission plan? - 39
 * How members of constituent assembly elected, whats the limitation? - 40(1)
-* 
+* When was the election happened for constituent assembly? - 40(1)
+* How many seats won by different parties? - 40(1)
+* What caste, religion included in this election? - 40(1)
