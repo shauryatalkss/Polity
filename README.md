@@ -29,5 +29,5 @@
 
 ### Chapter 2: Making of the Constitution 
 
-• What is 
-• ueheh
+* How demand of constitution arrises & by whome? - 39
+* What is August Offer? - 39
