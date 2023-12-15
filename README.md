@@ -32,5 +32,5 @@
 * How demand of constitution arrises & by whome? - 39
 * What is August Offer? - 39
 * What is Cripps Mission & what happened to its offer? - 39
-* When constituent assembly formed? - 39
+* When constituent assembly formed? - [S](https://testbook.com/question-answer/the-constituent-assembly-was-constituted-in-novemb--5b6ecaf3dd75cd0c43a0ff48)
 * Whats the strength of constituent assembly & how seats are distributed? - 39
