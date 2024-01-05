@@ -1,4 +1,4 @@
-##GEOGRAPHY
+## GEOGRAPHY
 
 * [Why sunsets in the evening?](https://www.google.com/search?q=why+sun+disappear+at+night&oq=why+sun+disapp&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjINCAgQABiGAxiABBiKBTINCAkQABiGAxiABBiKBTIHCAoQIRiPAjIHCAsQIRiPAjIHCAwQIRiPAtIBCDk2MDNqMGo5qAIAsAIA&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8)
 * [Why some stars shines, some are not?](https://www.google.com/search?q=why+some+stars+are+brighter+than+others&oq=why+some+star&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDINCAoQABiGAxiABBiKBTINCAsQABiGAxiABBiKBTINCAwQABiGAxiABBiKBTIHCA0QIRiPAjIHCA4QIRiPAtIBCDM3NTFqMGo5qAIAsAIA&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8)
